@@ -8,6 +8,8 @@ https://stackoverflow.com/questions/5904872/python-multiprocessing-with-pycuda
 
 https://gist.github.com/lebedov/8514d3456a94a6c73e6d
 
+https://stackify.dev/468007-python-multiprocessing-with-pycuda
+
 CUDA
 
 https://github.com/bvillasen/gravity
